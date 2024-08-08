@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "an npm package to convert",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anando9/cs-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Anand Masurkar",
+  "license": "Apache-2.0 ",
+  "bugs": {
+    "url": "https://github.com/anando9/cs-currency-converter/issues"
+  },
+  "homepage": "https://github.com/anando9/cs-currency-converter#readme",
+  "dependencies": {
+    "http-call": "^5.3.0"
+  }
+}
